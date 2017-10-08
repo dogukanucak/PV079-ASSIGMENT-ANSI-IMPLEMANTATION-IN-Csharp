@@ -1,0 +1,7 @@
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\bin\Debug\DogukanUcak-AnsiAsignment.exe.config
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\bin\Debug\DogukanUcak-AnsiAsignment.exe
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\bin\Debug\DogukanUcak-AnsiAsignment.pdb
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\obj\Debug\DogukanUcak-AnsiAsignment.csprojResolveAssemblyReference.cache
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\obj\Debug\DogukanUcak-AnsiAsignment.csproj.CoreCompileInputs.cache
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\obj\Debug\DogukanUcak-AnsiAsignment.exe
+D:\Projeler\DogukanUcak-AnsiAsignment\DogukanUcak-AnsiAsignment\obj\Debug\DogukanUcak-AnsiAsignment.pdb
